@@ -5,6 +5,7 @@ Proof-of-conceptin tavoite: saada _vagrant up_ -komennolla ylös
 tietokanta servereineen ja sovelluspalvelin servereineen, johon voi
 asentaa sovelluksia hostista. 
 
+
 *Asiat, jotka pitää toimia POC:ssa*
 
    * JBoss installation
@@ -17,7 +18,8 @@ asentaa sovelluksia hostista.
    * Apache-proxy
 
 
-*Vaatimukset*
+Vaatimukset
+-----------
 
 Softat:
 
@@ -31,6 +33,12 @@ Paketit:
 
    * Oracle rpm-binary
    * JBossin asennus-zippi
+
+
+## POC-logi
+
+https://github.com/hilverd/vagrant-ubuntu-oracle-xe
+
 
 
 
