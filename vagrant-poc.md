@@ -1,12 +1,36 @@
 Vagrant POC
 ===========
 
+Proof-of-conceptin tavoite: saada _vagrant up_ -komennolla ylös
+tietokanta servereineen ja sovelluspalvelin servereineen, johon voi
+asentaa sovelluksia hostista. 
 
-Requirements
+*Asiat, jotka pitää toimia POC:ssa*
 
-Software:
+   * JBoss installation
+   * Domain configuration
+   * JRebel?
+   * 
+
+*Asiat, joiden ei tarvitse toimia POC:ssa*
+
+   * Apache-proxy
+
+
+*Vaatimukset*
+
+Softat:
+
    * Vagrant
+   * VirtualBox
    * Git?
+      * Ei välttämätön?
+      * Laitetaan Oraclen pystytys SVN:ään lopulta?
 
-Stuff
+Paketit:
+
    * Oracle rpm-binary
+   * JBossin asennus-zippi
+
+
+
