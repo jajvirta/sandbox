@@ -11,7 +11,7 @@ Tavoitteet/hyödyt:
    * yksi kanoninen paikka konfiguraatioille
    * ..
 
-..
+......
 
 *Asiat, jotka pitää toimia POC:ssa*
 
