@@ -5,6 +5,13 @@ Proof-of-conceptin tavoite: saada _vagrant up_ -komennolla ylös
 tietokanta servereineen ja sovelluspalvelin servereineen, johon voi
 asentaa sovelluksia hostista. 
 
+Tavoitteet/hyödyt: 
+
+   * featurebrancheille
+   * yksi kanoninen paikka konfiguraatioille
+   * ..
+
+
 
 *Asiat, jotka pitää toimia POC:ssa*
 
